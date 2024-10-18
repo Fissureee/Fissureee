@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @Fissureee
-- 👀 I’m interested in this
-- 🌱 I’m currently learning to code
-- 💞️ I’m looking to collaborate on this
-- 📫 have a nice day ;)
-
 ![image](https://github.com/user-attachments/assets/b944f3d8-6f25-4f0e-824c-6abf87c0566a)
 
 <!---
